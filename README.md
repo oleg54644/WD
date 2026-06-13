@@ -81,3 +81,5 @@ PeerConnection.IceServer.builder("turn:your-server:3478")
 - DataChannel шифруется DTLS 1.2/1.3 (обязательно в WebRTC)
 - Сигнальный сервер работает на HTTP — в проде добавить TLS (nginx reverse proxy)
 - Аутентификацию на /offer добавить через Bearer token
+"# WD-"  
+"# WD-" 
